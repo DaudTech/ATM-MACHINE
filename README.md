@@ -1,3 +1,3 @@
 # Bank-Management-System<br>
-Developer: MO DAUD RAZA
+Developed by: MO DAUD RAZA
 
